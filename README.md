@@ -1,2 +1,2 @@
-# Plotly-Dashboard--exemple
+# Plotly-Dashboard--example
 Intro to Plotly dashboard
